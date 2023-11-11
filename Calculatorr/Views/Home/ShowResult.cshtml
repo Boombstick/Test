@@ -1,0 +1,49 @@
+﻿@model ViewModel
+@{
+    int month = Model.Months;
+    int paymentNumber = 1;
+    int day = DateTime.Today.Day;
+    int year = DateTime.Today.Year;
+}
+
+<table class="table table-striped table-centered mb-0">
+    <thead>
+        <tr>
+            <th>Номер платежа</th>
+            <th>Дата платежа</th>
+            <th>Размер платежа</th>
+            <th>Размер платежа по телу</th>
+            <th>Размер платежа по %</th>
+            <th>Остаток основного долга</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (MonthInfo info in Model.MonthsInfo)
+        {
+            <tr>
+                <td>@paymentNumber</td>     @* Номер платежа *@
+                <td>@day @info.dict[month] @year</td> @* Дата платежа *@
+                <td>@Model.MonthlyPayment</td> @* Размер платежа *@
+                <td>@info.BodyDebt</td>    @* Размер платежа по телу *@
+                <td>@info.Percent</td>    @* Размер платежа по % *@
+                <td>@info.RemainingDebt</td>    @* Остаток основного долга *@
+            </tr>
+
+            month++;
+            paymentNumber++;
+            if (month > 12)
+            {
+                month = 1;
+                year++;
+            }
+        }
+    </tbody>
+    <tr>
+        <th>Общая сумма кредита</th>
+        <th>Заплачено процентов</th>
+    </tr>
+    <tr>
+        <td>@ViewData["TotalSum"]</td>
+        <td>@ViewData["TotalPercent"]</td>
+    </tr>
+</table>

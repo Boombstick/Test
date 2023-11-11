@@ -1,0 +1,993 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Calculatorr.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Calculatorr.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-dark-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-dark-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-dark-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-dark-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-dark.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-dark.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-dark.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-dark.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-dark.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-creative.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-creative.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-dark-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-dark-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-dark-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-dark-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-dark.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-dark.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-dark.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-dark-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-dark-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-dark-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-dark-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-dark.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-dark.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-dark.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-dark.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-dark.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-modern.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-modern.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\app.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\icons-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons-rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\icons-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\icons-rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\32px.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\32px.png"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\britecharts.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\britecharts.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\fixedColumns.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\fixedColumns.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\fixedHeader.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\fixedHeader.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\frappe-gantt.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\frappe-gantt.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\fullcalendar.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\jstree.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\jstree.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\quill.bubble.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\quill.core.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\quill.core.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\quill.snow.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\select.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\select.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\simplemde.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\simplemde.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\css\\vendor\\throbber.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\throbber.gif"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\data\\vendor\\ajax_demo_children.json",
+      "PackagePath": "staticwebassets\\assets\\data\\vendor\\ajax_demo_children.json"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\app.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\app.min.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-area.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-area.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-bar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-bar.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-bubble.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-bubble.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-candlestick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-candlestick.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-column.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-column.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-heatmap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-heatmap.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-line.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-line.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-mixed.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-mixed.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-pie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-pie.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-radar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-radar.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-radialbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-radialbar.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-scatter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-scatter.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.apex-sparklines.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.apex-sparklines.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.britechart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.britechart.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.calendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.calendar.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.chartjs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.chartjs.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.customers.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.customers.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.dashboard-analytics.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.dashboard-crm.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.dashboard-crm.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.dashboard-projects.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.dashboard-projects.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.dashboard.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.datatable-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.datatable-init.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.form-wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.form-wizard.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.google-maps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.google-maps.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.inbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.inbox.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.jstree.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.jstree.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.materialdesignicons.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.materialdesignicons.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.products.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.products.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.profile.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.profile.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.project-detail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.project-detail.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.project-gantt.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.project-gantt.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.quilljs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.quilljs.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.sellers.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.sellers.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.simplemde.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.simplemde.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.sparkline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.sparkline.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.tasks.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.tasks.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.timepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.timepicker.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.toastr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.toastr.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.typehead.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.typehead.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.vector-maps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.vector-maps.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\pages\\demo.widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.widgets.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.chat.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.chat.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.dragula.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.dragula.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.fileupload.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.range-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.range-slider.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.rating.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.rating.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.scrollbar.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\ui\\component.todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.todo.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.min.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\britecharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\britecharts.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\buttons.flash.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\d3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\d3.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dataTables.checkboxes.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.checkboxes.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.select.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dragula.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dragula.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dropzone.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\fixedColumns.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\fixedColumns.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\fixedHeader.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\fixedHeader.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\frappe-gantt.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\frappe-gantt.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\gmaps.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\handlebars.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\handlebars.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-es-merc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-es-merc.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-es-mill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-es-mill.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-europe-mill-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-fr-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-fr-merc-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery.rateit.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.rateit.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\jstree.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jstree.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\quill.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\quill.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\simplemde.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\simplemde.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\assets\\js\\vendor\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\VisualGIT\\Calculatorr\\Calculatorr\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Calculatorr.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Calculatorr.props",
+      "PackagePath": "build\\Calculatorr.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Calculatorr.props",
+      "PackagePath": "buildMultiTargeting\\Calculatorr.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Calculatorr.props",
+      "PackagePath": "buildTransitive\\Calculatorr.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
