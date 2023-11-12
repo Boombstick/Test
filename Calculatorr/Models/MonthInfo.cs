@@ -6,7 +6,7 @@
         public double Percent { get; set; }
         public double RemainingDebt {
             get => remainingDebt;
-            set { if (value < 0.05) remainingDebt = 0;
+            set { if (value < 0.02) remainingDebt = 0;
                 else remainingDebt = value;
             } }
         private double remainingDebt;
